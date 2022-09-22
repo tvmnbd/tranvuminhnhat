@@ -4,9 +4,9 @@
 
 - 👋 Hi, I’m Tran Vu Minh Nhat!
 
-- 👀 I’m interested in Math, Technology, Game
+- 🎓 I’m interested in Web Technology, AI, Machine Learning, Deep Learning,...
 
-📫 How to reach me:
+- 📫 How to reach me:
  <p align="center">
  <a href="https://www.facebook.com/tvmnbd" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />    
