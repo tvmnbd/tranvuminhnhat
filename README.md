@@ -8,7 +8,4 @@
 
 - 📫 How to reach me:  
   <a href="mailto:tvmnbd.exe@gmail.com" alt="Email"> 
-  </a>
-</p>
-
- 
+  </a> 
