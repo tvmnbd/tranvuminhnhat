@@ -6,18 +6,8 @@
 
 - 🎓 I’m interested in Web Technology, AI, Machine Learning, Deep Learning,...
 
-- 📫 How to reach me:
- <p align="center">
- <a href="https://www.facebook.com/tvmnbd" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />    
-  </a> 
-  
-  <a href="https://github.com/tvmnbd" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>   
-  </a> 
-  
-  <a href="mailto:tvmnbd.exe@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>   
+- 📫 How to reach me:  
+  <a href="mailto:tvmnbd.exe@gmail.com" alt="Email"> 
   </a>
 </p>
 
