@@ -6,4 +6,4 @@
 
 - 🎓 I’m interested in Web Technology, AI, Machine Learning, Deep Learning,...
 
-- 📫 How to reach me: <a href="tvmnbd.exe@gmail.com" alt="Email"> </a> 
+- 📫 How to reach me: <a href="mailto:tvmnbd.exe@gmail.com" alt="Email">tvmnbd.exe@gmail.com</a> 
