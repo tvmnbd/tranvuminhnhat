@@ -4,6 +4,8 @@
 
 - 👋 Hi, I’m Tran Vu Minh Nhat!
 
+- 🌱 I’m currently learning Computer Science.
+
 - 🎓 I’m interested in Web Technology, AI, Machine Learning, Deep Learning,...
 
 - 📫 How to reach me: <a href="mailto:tvmnbd.exe@gmail.com" alt="Email">tvmnbd.exe@gmail.com</a> 
