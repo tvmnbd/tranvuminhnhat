@@ -4,6 +4,6 @@
 
 - Hi 👋, I'm Tran Vu Minh Nhat  
  
-- � I’m interested in Web Technology
+- 👀 I’m interested in Web Technology
 
 - 📫 How to reach me **tvmnbd.exe@gmail.com**
